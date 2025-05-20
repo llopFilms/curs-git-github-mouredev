@@ -1,3 +1,3 @@
-> ### Col·lboradors que entren al projecte
+> ### Col·laboradors que entren al projecte
 
 - Espai-wordpress
