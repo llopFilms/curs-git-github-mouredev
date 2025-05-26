@@ -1,2 +1,35 @@
 # Curs Git-Github Mouredev
 - Pràctiques del curs de Git - Github de Mouredev
+- Temari:
+  - Intro Git
+  - Git init
+  - Git add
+  - Git commit
+  - Git log
+  - Git status
+  - Branques
+  - Git alias
+  - Git diff
+  - .gitignore
+  - Git reset
+  - Git reflog
+  - Git tag
+  - Git branch
+  - Git switch
+  - Git merge
+  - Conflictes amb merge
+  - Git stash
+  - Intro Github
+  - Repositoris
+  - Autenticació SSH
+  - Git remote
+  - Git fetch
+  - Git pull
+  - Git push
+  - Forks
+  - Pull request
+  - Conflictes amb pull requests
+  - Sincronització de fork
+  - Git flow
+  - Git cherry-pick
+  - Git rebase
